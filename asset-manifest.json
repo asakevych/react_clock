@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c22150dd.chunk.css",
+    "main.js": "./static/js/main.5bea3a68.chunk.js",
+    "main.js.map": "./static/js/main.5bea3a68.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.17b9eccd.js",
+    "runtime-main.js.map": "./static/js/runtime-main.17b9eccd.js.map",
+    "static/js/2.c17dec48.chunk.js": "./static/js/2.c17dec48.chunk.js",
+    "static/js/2.c17dec48.chunk.js.map": "./static/js/2.c17dec48.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.2a588e6664bd03276c5cc1c6319ed4c3.js": "./precache-manifest.2a588e6664bd03276c5cc1c6319ed4c3.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.c22150dd.chunk.css.map": "./static/css/main.c22150dd.chunk.css.map",
+    "static/js/2.c17dec48.chunk.js.LICENSE.txt": "./static/js/2.c17dec48.chunk.js.LICENSE.txt",
+    "static/media/Clock.css": "./static/media/kisspng-vomiting-unicorn-rainbow-nausea-disease-unicorn-5ab613ed687ff0.6862365115218820934281.5d03c415.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17b9eccd.js",
+    "static/js/2.c17dec48.chunk.js",
+    "static/css/main.c22150dd.chunk.css",
+    "static/js/main.5bea3a68.chunk.js"
+  ]
+}
